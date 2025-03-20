@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on a <a href='https://github.com/Xthomson08/Node-Playlists-App'>Node.js Music Application</a>
 - 🌱 I’m currently learning Embedded C++ with the <a href='https://docs.arduino.cc/hardware/uno-r4-wifi/'>Arduino Uno R4 Wifi</a>
 - 🤔 I’m looking for help with finding entry level SWE positions (Remote or Illinois, USA).
-- 📫 Reach me here: <a href='mailto:xthomson814@gmail.com'>Xthomson814@gmail.com</a>
-
-- 🏫 Education: Bachelor of Arts - Majors in Computer Science & Music | Minor in Mathematics - From Augustana College
+- 📩 Reach out to me: <a href='mailto:xthomson814@gmail.com'>Xthomson814@gmail.com</a>
+- 🏫 Augustana College - Rock Island, IL
+  - Bachelor of Arts - Majors in Computer Science & Music | Minor in Mathematics
 - 🎵 Ask me what I am listening to right now.
 - ⚡ Fun fact: I toured Germany and the Czech Republic with the Augustana Choir, <a href='https://www.augustana.edu/about-us/news/choir-headed-germany-czech-republic-perform'>check it out</a>!
 
@@ -28,17 +28,17 @@
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=for-the-badge&logo=css3&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-red?style=for-the-badge)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20Indesign-red?style=for-the-badge)
-#### Tools
+#### Tools 🔧
 
 ![Git](http://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=npm&logoColor=black)
 
-#### Coursework
+#### Coursework 📖
 ![Software Development](https://img.shields.io/badge/-Software%20Development-black?style=for-the-badge)
 ![Algorithms & Comp Theory](https://img.shields.io/badge/-Algorithms%20&%20Comp%20Theory-black?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-black?style=for-the-badge)
 ![Principles of Computer Systems](https://img.shields.io/badge/-Systems%20of%20Computer%20Systems-black?style=for-the-badge)
 
-#### Currently Learning
+#### Currently Learning 🔍
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
