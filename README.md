@@ -20,6 +20,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/firestore-ffca28?style=for-the-badge&logo=firestore&logoColor=black)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-grey?style=for-the-badge)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### Front-end 🌐
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,6 +33,7 @@
 
 ![Git](http://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)
 ![Npm](http://img.shields.io/badge/-Npm-white?style=for-the-badge&logo=npm&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
 
 #### Coursework 📖
 ![Software Development](https://img.shields.io/badge/-Software%20Development-black?style=for-the-badge)
@@ -40,5 +42,5 @@
 ![Principles of Computer Systems](https://img.shields.io/badge/-Systems%20of%20Computer%20Systems-black?style=for-the-badge)
 
 #### Currently Learning 🔍
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1)
+![Embedded C++](https://img.shields.io/badge/-Embedded%20C%2B%2B-blue?style=for-the-badge)
+![Arduino UNO R4 WIFI](https://img.shields.io/badge/-Arduino%20UNO%20R4%20WIFI-white?style=for-the-badge)
